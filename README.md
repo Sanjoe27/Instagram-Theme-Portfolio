@@ -7,7 +7,7 @@ Note : Its designed for mobile ,Please try to open it in mobile
 If we see the analytics <br />
 India Population =  ~1400M <br />
 Lets say People age between  16-50 use instagram & Avg. Span =70 Years <br />
-( India Population Between (0-15 & 50+) =  50% = ~700M ) <br />
+( India Population Between (0-15 & 50+)(Assuming Population is equally destributed with age) =  50% = ~700M ) <br />
 Elgible users who can use instagram = 1400-700= 700M <br />
 Insta Users in India = ~400M <br />
 
